@@ -24,7 +24,8 @@
            echo "<p>$numbers[$i]</p>";
          }
 
-      ?>
+      
+    ?>
 
     </body>
   </html>
